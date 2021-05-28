@@ -47,3 +47,13 @@
 [facebook]: https://www.facebook.com/thienthien.diep.5/
 
 [reddit]:https://www.reddit.com/user/CuteAsFck
+
+<a href="https://github.com/nameyoutime/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nameyoutime&show_icons=true&theme=radical" />
+</a>
+
+
+
+
+
+
