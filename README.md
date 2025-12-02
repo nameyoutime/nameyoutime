@@ -1,57 +1,66 @@
-### Hi there, My name's Thien Thien 👋
+# Hi there, I'm Diep Thien Thien! 👋
 
-<!-- [website] -->
-<!-- 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][website]
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)][reddit]
+**Software Developer | Front-end Specialist**
 
-## I'm currently a student at Hoa Sen University in Ho Chi Minh city!
+I am a proactive and eager problem solver with a keen enthusiasm for acquiring new knowledge and adapting to the latest technological trends. My background focuses on crafting user interfaces and formulating functional logic for various web and mobile platforms.
 
-- 🔭 I just trying to studies various coding langues.
-- 🌱 I’m currently trying to learn as much as possible 🤣.
-- 🥅 2021 Goals: Learn more about ReactJs and Angular.
-- ⚡ Fun fact: I loves playing video games.
+## 🚀 Technical Skills
 
+I possess a strong foundation in modern web technologies, with a focus on the React ecosystem.
 
-### About:
+**Languages:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/facebook.svg" />][facebook]
+**Frontend Frameworks & Libraries:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-<br />
+**UI & Styling:**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Languages and Tools:
+**Backend & Cloud Services:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+---
 
-<br />
-<br />
+## 💼 Work Experience
 
+**Front-end Developer @ TechJDI** (Nov 2022 – Nov 2025)
+*Worked on diverse projects across FinTech, F&B, E-commerce, and Education sectors.*
 
-[website]: https://github.com/nameyoutime?tab=repositories
-[course]: https://github.com/nameyoutime?tab=repositories
-[facebook]: https://www.facebook.com/thienthien.diep.5/
+### Key Projects:
 
-[reddit]:https://www.reddit.com/user/CuteAsFck
+- **Saleshero (AI Platform):**
+  - Built an AI-powered sales enablement platform and a custom rich-text editor using Lexical.
+  - *Tech:* React (Vite), TypeScript, MUI, Tailwind, Redux Toolkit, React Query.
 
-<a href="https://github.com/nameyoutime/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nameyoutime&show_icons=true&theme=radical" />
-</a>
+- **TechJDI / TalentJDI (Corporate Site):**
+  - Engineered high-performance UI and optimized Admin Dashboards handling extensive datasets.
+  - *Tech:* Next.js, TypeScript, Payload CMS, Framer Motion, AWS S3.
 
+- **Optimal Vest (FinTech):**
+  - Developed a platform featuring an AI chatbot for financial counseling and investment strategies.
+  - *Tech:* React + Refine, Tailwind, Ant Design, i18next, RTK.
+
+- **Lylo (Car Rental App):**
+  - Built UI and logic for car renting and integrated Google API for geolocation and dispatching.
+  - *Tech:* React Native, Nativewind, React Query, Code Push, Google Maps.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Software Engineering** 
+*Hoa Sen University (HSU)* 
+- **Relevant Coursework:** Software Architecture, Algorithms & Data Structures, Web Development, Mobile Application Development.
+
+---
+
+## 🌟 Soft Skills
+
+- **Juggling Responsibilities:** Adeptly balancing multiple coding assignments.
+- **Collaborative Spirit:** Working in harmony with lead programmers and peers.
+- **Analytical Thinking:** Pinpointing and addressing code-related issues efficiently.
+- **English Proficiency:** Skilled in technical documentation and research.
 
 
 
